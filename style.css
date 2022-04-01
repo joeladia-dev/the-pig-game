@@ -173,14 +173,14 @@ main {
 .header {
   position: fixed;
   top: 0;
-  left: 40%;
+  left: 41%;
 }
 
 .header-title {
   margin-top: 50px;
   text-align: center;
   color: #f2f2f2;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .header-p {
