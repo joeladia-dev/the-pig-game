@@ -177,7 +177,7 @@ main {
 }
 
 .header-title {
-  margin-top: 40px;
+  margin-top: 25px;
   text-align: center;
   color: #f2f2f2;
   font-size: 35px;
@@ -187,5 +187,4 @@ main {
   text-align: center;
   color: #fff;
   font-size: 15px;
-  margin-bottom: 20px;
 }
