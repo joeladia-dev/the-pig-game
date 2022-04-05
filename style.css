@@ -25,8 +25,8 @@ body {
 /* LAYOUT */
 main {
   position: relative;
-  width: 110rem;
-  height: 70rem;
+  width: 80rem;
+  height: 50rem;
   background-color: rgba(255, 255, 255, 0.35);
   backdrop-filter: blur(200px);
   filter: blur();
