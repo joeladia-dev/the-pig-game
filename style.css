@@ -26,7 +26,7 @@ body {
 main {
   position: relative;
   width: 80rem;
-  height: 60rem;
+  height: 50rem;
   background-color: rgba(255, 255, 255, 0.35);
   backdrop-filter: blur(200px);
   filter: blur();
@@ -177,7 +177,7 @@ main {
 }
 
 .header-title {
-  margin-top: 40px;
+  margin-top: 25px;
   text-align: center;
   color: #f2f2f2;
   font-size: 35px;
